@@ -7,3 +7,4 @@ Didn't get enough of Wordle? Here are some popular [Wordle](https://www.nytimes.
 - [Dordle](https://zaratustra.itch.io/dordle) Wordle but longer words
 - [Lewdle](https://world3dmap.com/lewdle/) (**NSFW**) The Hooligan Wordle
 - [Nerdle](https://nerdlegame.com/) Wordle but you're guessing a calculation
+- [Chordle](https://www.chordle.synthase.cc/) Wordle but chords!
