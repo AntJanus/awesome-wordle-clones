@@ -9,3 +9,4 @@ Didn't get enough of Wordle? Here are some popular [Wordle](https://www.nytimes.
 - [Nerdle](https://nerdlegame.com/) Wordle but you're guessing a calculation
 - [Chordle](https://www.chordle.synthase.cc/) Wordle but chords!
 - [SWordle](https://wordle.starwars.guide/) Star Wars Wordle
+- [WordleLike](https://wordlelike.com/) Free hub with 5 daily Wordle-style games — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram. New puzzles every 24h, no sign-up.
