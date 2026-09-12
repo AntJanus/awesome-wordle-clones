@@ -9,3 +9,4 @@ Didn't get enough of Wordle? Here are some popular [Wordle](https://www.nytimes.
 - [Nerdle](https://nerdlegame.com/) Wordle but you're guessing a calculation
 - [Chordle](https://www.chordle.synthase.cc/) Wordle but chords!
 - [SWordle](https://wordle.starwars.guide/) Star Wars Wordle
+- [Hexle](https://hexle.us) Wordle but you're guessing a color from its hex code
