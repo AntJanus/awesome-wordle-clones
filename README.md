@@ -9,3 +9,4 @@ Didn't get enough of Wordle? Here are some popular [Wordle](https://www.nytimes.
 - [Nerdle](https://nerdlegame.com/) Wordle but you're guessing a calculation
 - [Chordle](https://www.chordle.synthase.cc/) Wordle but chords!
 - [SWordle](https://wordle.starwars.guide/) Star Wars Wordle
+- [Twinwords](https://playatyours.com/free-games/twinwords/) Solve two five-letter words with nine shared guesses. Free daily browser puzzle, no account required.
